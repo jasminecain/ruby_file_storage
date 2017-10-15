@@ -32,3 +32,6 @@ end
 # chomp gets rid of extra characters
 hash = Hash[makesOnly.zip modelOnly]
 puts hash
+# .zip will combines the arrays in an ordered way
+
+

@@ -1,7 +1,9 @@
 #Working with Files in Ruby
 
 [doc](https://ruby-doc.org/core-2.4.2/File.html)
+
 [helpful exercise](https://learnrubythehardway.org/book/ex15.html)
+
 [another helpful exercise](https://learnrubythehardway.org/book/ex16.html)
 
 ## Car Models
